@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shawnwalmer
 - 👀 I’m interested in making other peoples lives easier.
-- 🌱 I’m currently learning how to do it.
+- 🌱 I’m currently learning the Hashicorp Stack.
 - 💞️ I’m looking to collaborate on DevOps and Infrastructure as Code.
 - 📫 How to reach me :shawnwalmer@gmail.com
 
